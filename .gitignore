@@ -1,0 +1,24 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Old/local Python environments
+llms/
+llmenv/
+
+# IDE settings
+.vscode/
+
