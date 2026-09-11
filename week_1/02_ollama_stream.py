@@ -1,18 +1,17 @@
 import os
-
 from dotenv import load_dotenv
 from ollama import chat
 
 load_dotenv()
 
-model = os.getenv("OLLAMA_MODEL", "gemma3:270m")
-
+ model = os.getenv("OLLAMA_MODEL", "gemma3:270m")
 stream = chat(
     model=model,
     messages=[
         {
             "role": "user",
-            "content": "Explain Retrieval-Augmented Generation in simple terms.",
+            "content": "Explain Retrieval-Augmented Generation in simple terms."
+            "Explain the difference between a language model and a retrieval-augmented model,",
         }
     ],
     stream=True,
