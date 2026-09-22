@@ -1,0 +1,16 @@
+mango
+orange
+date
+bananas
+apple
+pineapple
+strawberry
+grape
+watermelon
+kiwi
+pear
+plum
+peach
+cherry
+raspberry
+blueberry

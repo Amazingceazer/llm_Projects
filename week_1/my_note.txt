@@ -1,0 +1,23 @@
+My name is AValumun Sekulla Nyior.
+I am learning Python.
+Python is a programming language.
+I am currently learning how to work with files.
+Files allow programs to store information.
+A text file can contain words, numbers, and symbols.
+Python can read information from a text file.
+Python can also write information to a text file.
+The open() function is used to open a file.
+The letter r means read.
+The letter w means write.
+The letter a means append.
+Using with is a good way to work with files.
+A context manager automatically closes the file.
+The pathlib library helps us work with file paths.
+The glob library can help us find files.
+Learning Python takes practice.
+Making mistakes is part of learning.
+The more I practice, the better I will become.
+I am getting more comfortable with Python every day.
+
+This is an appended line.
+This is an appended line.
